@@ -4,7 +4,7 @@
     Date: April 6th, 2020
 
     Description
-    Models a Student object with studentID, firstName, lastName, gpa and status
+    Models a Student object with studentID, firstName, lastName, gpa and status.
     First name an Last name have a maximum lengtj and the student number is 
     made out of 9 digits
  */
