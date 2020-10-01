@@ -1,3 +1,3 @@
 # Student Roster Application
 
-![GitHub Logo](https://imgur.com/a/JjpRiF5)
+![GitHub Logo](https://i.imgur.com/4TPZmAS.png)
